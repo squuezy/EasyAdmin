@@ -1,2 +1,2 @@
 # EasyAdmin
-EasyAdmin dla przepisany dla ExumaRP
+EasyAdmin zrobiony pod ExumaRP
