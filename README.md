@@ -1,2 +1,2 @@
 # EasyAdmin
-EasyAdmin zrobiony pod ExumaRP
+EasyAdmin przerobiony pod ExumaRP taki smieszny serwerek :)
